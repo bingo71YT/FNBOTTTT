@@ -1,4 +1,4 @@
-# HTTP-Fortnite-Bot
+[![Run on Repl.it](https://repl.it/badge/github/bingo71YT/FNBOTTTT)](https://repl.it/github/bingo71YT/FNBOTTTT)# HTTP-Fortnite-Bot
 Uses JavaScript to emulate a Fortnite client and can join parties through HTTP and change skins / emotes visually.
 
 Requirements:
